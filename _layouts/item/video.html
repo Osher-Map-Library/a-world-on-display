@@ -9,6 +9,10 @@ layout: item/item-page-base
     
         {% if page.object_location contains 'vimeo' or page.object_location contains 'youtu' %}
         {% include item/video-embed.html %}
+        {% elsif page.object_location contains 'loc.gov' %}
+        <div class="ratio ratio-16x9">
+            <iframe title="video embed {{ page.title | escape }}" src="{{ page.object_location }}?&embed=resources" allowfullscreen></iframe>
+        </div>
         {% else %}
         {% include item/video-player.html %}
         {% endif %}

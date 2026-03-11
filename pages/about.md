@@ -20,4 +20,8 @@ padding: 6em
 
 ## About A World on Display
 
+{% include feature/image.html objectid="assets/img/AWOD_poster.png" width="75" %}
 
+*A World on Display: Anthropology and World’s Fairs, 1851-1904* was an exhibition at the Osher Map Library from May 7, 2025 - August 22, 2025. It was curated by the students of ANT 320: Anthropology and the Museum in conjunction with Dr. David Shane Lowry and Dr. Libby Bischof.
+
+This digital version of the exhibit was created in Spring 2026 by Paul Fuller.
