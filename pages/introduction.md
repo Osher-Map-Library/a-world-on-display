@@ -27,3 +27,5 @@ As educators, we feel it is important to note that this exhibit is planned by an
 
 We invite you to journey through the various items that we have curated. Our purpose is not to, yet again, create a space of distraction and distortion. Rather, in this joint venture, we hope that you (the visitor and passerby) will begin to understand the weight of the World’s Fairs as something current, and not just in the past. We ask you to look more closely. We ask you to ask better questions. These World’s Fairs, as you will see, ought to be as significant to the peoples on Wabanaki lands as they are to the peoples in Philadelphia, Chicago, Buffalo, St. Louis, London and Paris.   
 -David Shane Lowry and Libby Bischof
+
+<a class="btn btn-{{ include.btn-color | default: 'primary' }}" href="{{ '/spanish-american.html' | relative_url }}" >Next Section: Spanish-American War &raquo;</a>

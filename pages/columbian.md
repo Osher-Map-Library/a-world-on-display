@@ -19,3 +19,5 @@ Anthropology, the study of human cultures, was still a new academic field in 189
 By examining how the 1893 Chicago World’s Fair organized and displayed people, we are invited to ask new questions: Who gets to represent humanity? Who is allowed to speak for themselves? And what does it mean when cultures are turned into exhibits?
 
 ~ Estella Sample, Tyler Hampton, Alex Kane, Molly Bennett, Ryan Chase & Jillian Worster
+
+<a class="btn btn-{{ include.btn-color | default: 'primary' }}" href="{{ '/pan-american.html' | relative_url }}" >Next Section: Pan-American Exposition (Buffalo, 1901) &raquo;</a>
