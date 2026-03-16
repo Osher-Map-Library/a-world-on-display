@@ -14,7 +14,7 @@
 <div class="card mb-3">
     <div class="card-body">
         <{{ include.heading_level | default: 'h2' | strip }} class="card-title h5">About the Exhibition</{{ include.heading_level | default: 'h2' | strip }}>
-        <p class="card-text">A World on Display: Anthropology and World’s Fairs, 1851-1904, was organized and curated by the twenty students enrolled in the spring 2025 University of Southern Maine course ANT 320: Anthropology and the Museum, taught by Dr. David Shane Lowry, Assistant Professor of Anthropology in the Department of Geography-Anthropology. Professor Lowry, alongside Dr. Libby Bischof, Executive Director of the Osher Map Library and Smith Center for Cartographic Education and Professor of History, guided and assisted the students in the organization and curation of the exhibition.</p>
+        <p class="card-text"><em>A World on Display: Anthropology and World’s Fairs, 1851-1904</em> was organized and curated by the twenty students enrolled in the spring 2025 University of Southern Maine course ANT 320: Anthropology and the Museum, taught by Dr. David Shane Lowry, Assistant Professor of Anthropology in the Department of Geography-Anthropology. Professor Lowry, alongside Dr. Libby Bischof, Executive Director of the Osher Map Library and Smith Center for Cartographic Education and Professor of History, guided and assisted the students in the organization and curation of the exhibition.</p>
         {%- assign about = site.data.config-nav | where: "stub","/about.html" | size -%}{% if about > 0 %}
         <a class="btn btn-{{ include.btn-color | default: 'primary' }}" href="{{ '/introduction.html' | relative_url }}" >Enter the Exhibition &raquo;</a>{% endif %}
     </div>
