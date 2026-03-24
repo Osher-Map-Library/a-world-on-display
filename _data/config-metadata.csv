@@ -1,6 +1,7 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
 creator,Creator,,,DCTERMS.creator,creator
+publisher,Publisher,,,DCTERMS.publisher,publisher
 label_writer,Label Writer,true,,,
 fair_name,Fair,true,,,
 date,Date Created,,,DCTERMS.date,dateCreated
@@ -11,8 +12,9 @@ latitude,Latitude,,,,
 longitude,Longitude,,,,
 source,Source,,,,
 identifier,Source Identifier,,,,
+medium,Medium,true,,,
 type,Type,,,DCTERMS.type,
-format,Format,,,,encodingFormat
+format,Format,,,DCTERMS.format,encodingFormat
 language,Language,,,DCTERMS.language,
-rightsstatement,,,,DCTERMS.rights,license
+rightsstatement,,,true,DCTERMS.rights,license
 purl,Permanent URL,,true,,

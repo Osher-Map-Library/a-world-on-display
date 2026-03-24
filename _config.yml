@@ -53,8 +53,8 @@ metadata: awod_metadata
 organization-name: "Osher Map Library and Smith Center for Cartographic Education"
 organization-link: https://oshermaps.org
 # Add logo image links if you would like them to appear in banner and footer. Delete or leave blank to remove logos.
-organization-logo-banner: /assets/img/OML_logo.png
-organization-logo-nav: /assets/img/OML_logo.png
+organization-logo-banner: /assets/img/OML_logo-white-text.png
+organization-logo-nav: /assets/img/OML_logo-white-text.png
 
 ##########
 # ROBOTS EXCLUDE
