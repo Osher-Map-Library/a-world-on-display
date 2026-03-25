@@ -25,4 +25,4 @@ We invite you to journey through the various items that we have curated. Our pur
 
 <p class="blockquote-footer text-end fs-5"> David Shane Lowry and Libby Bischof</p>
 
-{% include feature/button.html text="Next Section: Spanish-American War &raquo;" link="/spanish-american.html" color="primary" size="lg" centered="true" %}
+{% include feature/button.html text="Next Section: Spanish-American War &raquo;" link="/a-world-on-display/spanish-american.html" color="primary" size="lg" centered="true" %}

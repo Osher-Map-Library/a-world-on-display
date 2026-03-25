@@ -20,4 +20,4 @@ The Louisiana Purchase Exposition was organized to encourage average fairgoers t
 
 <p class="blockquote-footer text-end fs-5">Olyvia Krisko, Molly Humphrey & Maddy Ryan</p>
 
-{% include feature/button.html text="View all items from the exhibition &raquo;" link="/browse.html" color="primary" size="lg" centered="true" %}
+{% include feature/button.html text="View all items from the exhibition &raquo;" link="/a-world-on-display/browse.html" color="primary" size="lg" centered="true" %}

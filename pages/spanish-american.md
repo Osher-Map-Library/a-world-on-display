@@ -22,4 +22,4 @@ On the other hand, Levi W. Yaggy, a Chicago map publisher who specialized in ped
 
 <p class="blockquote-footer text-end fs-5">Libby Bischof</p>
 
-{% include feature/button.html text="Next Section: International Fairs &raquo;" link="/international.html" color="primary" size="lg" centered="true" %}
+{% include feature/button.html text="Next Section: International Fairs &raquo;" link="/a-world-on-display/international.html" color="primary" size="lg" centered="true" %}

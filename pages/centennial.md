@@ -19,4 +19,4 @@ The broader historical backdrop of 1876 made the Exposition's patriotic themes e
 
 <p class="blockquote-footer text-end fs-5">Grace McLellan, Brooke Lindsay, & Brian Sachs</p>
 
-{% include feature/button.html text="Next Section: Columbian Exposition (Chicago, 1876) &raquo;" link="/columbian.html" color="primary" size="lg" centered="true" %}
+{% include feature/button.html text="Next Section: Columbian Exposition (Chicago, 1876) &raquo;" link="/a-world-on-display/columbian.html" color="primary" size="lg" centered="true" %}

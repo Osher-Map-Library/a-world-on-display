@@ -24,4 +24,4 @@ By examining how the 1893 Chicago World’s Fair organized and displayed people,
 
 <p class="blockquote-footer text-end fs-5">Estella Sample, Tyler Hampton, Alex Kane, Molly Bennett, Ryan Chase & Jillian Worster</p>
 
-{% include feature/button.html text="Next Section: Pan-American Exposition (Buffalo, 1901) &raquo;" link="/pan-american.html" color="primary" size="lg" centered="true" %}
+{% include feature/button.html text="Next Section: Pan-American Exposition (Buffalo, 1901) &raquo;" link="/a-world-on-display/pan-american.html" color="primary" size="lg" centered="true" %}

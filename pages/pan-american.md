@@ -20,4 +20,4 @@ The symbol of the Pan-American Exposition depicts the United States, personified
 
 <p class="blockquote-footer text-end fs-5">Emma Carpenter & William Lakatos</p>
 
-{% include feature/button.html text="Next Section: Louisiana Purchase Exposition (St. Louis, 1904) &raquo;" link="/louisiana.html" color="primary" size="lg" centered="true" %}
+{% include feature/button.html text="Next Section: Louisiana Purchase Exposition (St. Louis, 1904) &raquo;" link="/a-world-on-display/louisiana.html" color="primary" size="lg" centered="true" %}

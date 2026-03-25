@@ -38,4 +38,4 @@ The Exposition Universelle revealed the deep contradictions of the era. Alongsid
 
 <p class="blockquote-footer text-end fs-5">Fiona Charlson, Kate Upham, Joe Barkowski & Ana Napijalo</p>
 
-{% include feature/button.html text="Next Section: Centennial Exposition (Philadelphia, 1876) &raquo;" link="/centennial.html" color="primary" size="lg" centered="true" %}
+{% include feature/button.html text="Next Section: Centennial Exposition (Philadelphia, 1876) &raquo;" link="/a-world-on-display/centennial.html" color="primary" size="lg" centered="true" %}
